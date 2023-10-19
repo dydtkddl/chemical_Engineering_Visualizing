@@ -15,5 +15,13 @@
 >> https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/0eaffd9e-2989-4f21-8c27-97755e54239b
 >> * 엄밀해와 근사해(Biot Number에 따라)
 >> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/4fc18887-90a1-4e99-bbe8-1dbe51d86cdb)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/17dfc12c-2c3f-4d8e-9501-aa836f997cd2)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/1a72250f-f47b-437b-b472-4be51f0a3936)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/bc7578bd-7949-4abd-b7b0-722438e5b45e)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/8643cd69-8bc5-44a8-bea7-3b4d08dae23c)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/6f35ea5e-7870-4ee8-ac08-787b814f7982)
+>> ![image](https://github.com/dydtkddl/chemical_Engineering_Visualizing/assets/114085307/1419dfe1-a209-4e61-9caa-295152cdc19d)
+
+
 
 
